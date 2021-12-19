@@ -1,6 +1,6 @@
 #+TITLE:  Chess Programming
+#+DESCRIPTION: An awesome curated list of chess programing resources.
 
-An awesome curated list of chess programing resources.
 
 * Libraries for programming chess
 
