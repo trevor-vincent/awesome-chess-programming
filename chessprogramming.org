@@ -1,5 +1,7 @@
 #+TITLE:  Chess Programming
 
+An awesome curated list of chess programing resources.
+
 * Libraries for programming chess
 
 * Engines

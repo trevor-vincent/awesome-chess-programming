@@ -1,18 +1,19 @@
 
 # Table of Contents
 
-1.  [Libraries for programming chess](#org5bc0724)
-2.  [Engines](#org4751de0)
-3.  [Misc](#orgc97bbba)
+1.  [Libraries for programming chess](#org0f5db44)
+2.  [Engines](#org3347770)
+3.  [Misc](#org00f7818)
+
+An awesome curated list of chess programing resources.
 
 
-
-<a id="org5bc0724"></a>
+<a id="org0f5db44"></a>
 
 # Libraries for programming chess
 
 
-<a id="org4751de0"></a>
+<a id="org3347770"></a>
 
 # Engines
 
@@ -21,7 +22,7 @@
 -   
 
 
-<a id="orgc97bbba"></a>
+<a id="org00f7818"></a>
 
 # Misc
 
