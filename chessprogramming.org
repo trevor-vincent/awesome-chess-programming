@@ -1,0 +1,11 @@
+#+TITLE:  Chess Programming
+
+* Libraries for programming chess
+
+* Engines
+
+- [[https://github.com/official-stockfish/Stockfish][Stockfish]]
+- [[https://github.com/glinscott/fishtest][Fishtest: Testing suite for stockfish]]
+-  
+
+* Misc
