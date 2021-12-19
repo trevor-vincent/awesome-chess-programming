@@ -1,18 +1,18 @@
 
 # Table of Contents
 
-1.  [Libraries for programming chess](#orgd51927b)
-2.  [Engines](#org3d473b1)
-3.  [Misc](#org64df08c)
+1.  [Libraries](#org26c2c2e)
+2.  [Engines](#orgdcc83ea)
+3.  [Misc](#orgeeb77b2)
 
 
 
-<a id="orgd51927b"></a>
+<a id="org26c2c2e"></a>
 
-# Libraries for programming chess
+# Libraries
 
 
-<a id="org3d473b1"></a>
+<a id="orgdcc83ea"></a>
 
 # Engines
 
@@ -21,7 +21,7 @@
 -   
 
 
-<a id="org64df08c"></a>
+<a id="orgeeb77b2"></a>
 
 # Misc
 
